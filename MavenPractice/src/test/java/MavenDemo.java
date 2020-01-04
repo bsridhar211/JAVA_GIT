@@ -8,6 +8,7 @@ public class MavenDemo
 	public void mavenWorld(){
 		System.out.println("Welcome to Maven World");
 		System.out.println("Hii Git, Hii Jenkins");
+		System.out.println("Testing Jenkins auto build");
 	}
 	
 }
