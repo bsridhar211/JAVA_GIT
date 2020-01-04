@@ -7,6 +7,7 @@ public class MavenDemo
 	@Test
 	public void mavenWorld(){
 		System.out.println("Welcome to Maven World");
+		System.out.println("Hii Git, Hii Jenkins");
 	}
 	
 }
