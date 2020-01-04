@@ -10,8 +10,7 @@ public class MavenDemo
 		System.out.println("Hii Git, Hii Jenkins");
 		System.out.println("Testing Jenkins auto build");
 		System.out.println("Testing Jenkins auto build");
-		System.out.println("test");
-		System.out.println("test2");
+
 		
 	}
 	
