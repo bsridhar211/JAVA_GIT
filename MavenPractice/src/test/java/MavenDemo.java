@@ -11,6 +11,7 @@ public class MavenDemo
 		System.out.println("Testing Jenkins auto build");
 		System.out.println("Testing Jenkins auto build");
 		System.out.println("test");
+		System.out.println("test2");
 		
 	}
 	
